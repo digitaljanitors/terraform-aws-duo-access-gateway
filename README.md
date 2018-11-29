@@ -1,1 +1,1 @@
-# terraform-aws-duo-dag
+# terraform-aws-duo-access-gateway
